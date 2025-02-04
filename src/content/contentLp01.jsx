@@ -140,7 +140,7 @@ const contentLp01 = {
         ),
         title: "Revisional de Juros Abusivos",
         description:
-          "Reveja contratos bancários e reduza taxas excessivas, garantindo condições justas em seus financiamentos e empréstimos.",
+          "Reveja contratos bancários e reduza taxas excessivas, garantindo condições justas em seus financiamentos e empréstimos sem burocracia.",
       },
     },
   },
@@ -152,7 +152,8 @@ const contentLp01 = {
     },
     sectionHeader: {
       miniTag: "TRADIÇÃO EM RECUPERAÇÃO E EMPRÉSTIMOS",
-      title: "Especialistas em Recuperação de Crédito e Empréstimos",
+      title:
+        "Especialistas em Recuperação de Crédito e Empréstimos sem burocracia",
     },
     paragraph: (
       <p>
