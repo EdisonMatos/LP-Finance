@@ -124,15 +124,23 @@ const contentLp01 = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-house"
+            class="lucide lucide-calculator"
           >
-            <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
-            <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+            <rect width="16" height="20" x="4" y="2" rx="2" />
+            <line x1="8" x2="16" y1="6" y2="6" />
+            <line x1="16" x2="16" y1="14" y2="18" />
+            <path d="M16 10h.01" />
+            <path d="M12 10h.01" />
+            <path d="M8 10h.01" />
+            <path d="M12 14h.01" />
+            <path d="M8 14h.01" />
+            <path d="M12 18h.01" />
+            <path d="M8 18h.01" />
           </svg>
         ),
-        title: "Pessoas com Garantias",
+        title: "Revisional de Juros Abusivos",
         description:
-          "Quem tem garantia, como imóvel ou veículo, pode conseguir empréstimos com taxas de juros mais baixas.",
+          "Reveja contratos bancários e reduza taxas excessivas, garantindo condições justas em seus financiamentos e empréstimos.",
       },
     },
   },
@@ -178,18 +186,19 @@ const contentLp01 = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-network"
+            class="lucide lucide-trophy"
           >
-            <rect x="16" y="16" width="6" height="6" rx="1" />
-            <rect x="2" y="16" width="6" height="6" rx="1" />
-            <rect x="9" y="2" width="6" height="6" rx="1" />
-            <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" />
-            <path d="M12 12V8" />
+            <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" />
+            <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" />
+            <path d="M4 22h16" />
+            <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22" />
+            <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22" />
+            <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" />
           </svg>
         ),
-        title: "Equipe Especializada",
+        title: "Tradição",
         description:
-          "Profissionais capacitados para resolver toda a parte burocrática e técnica para você.",
+          "A Finance Soluções Financeiras atua no mercado prestando serviços de recuperação de crédito com profissionalismo e seriedade, buscando resolver da melhor forma seus problemas com inadimplência",
       },
       card2: {
         icon: (
@@ -203,16 +212,17 @@ const contentLp01 = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-piggy-bank"
+            class="lucide lucide-list-check"
           >
-            <path d="M19 5c-1.5 0-2.8 1.4-3 2-3.5-1.5-11-.3-11 5 0 1.8 0 3 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2V5z" />
-            <path d="M2 9v1c0 1.1.9 2 2 2h1" />
-            <path d="M16 11h.01" />
+            <path d="M11 18H3" />
+            <path d="m15 18 2 2 4-4" />
+            <path d="M16 12H3" />
+            <path d="M16 6H3" />
           </svg>
         ),
-        title: "Economia Garantida",
+        title: "Serviços especializados",
         description:
-          "Maximizamos seus direitos para aumentar seus recursos financeiros.",
+          "Conte com serviços de cobrança tanto de cobranças amigáveis, por meio de ligações, lembretes, notificações, quanto de cobranças judiciais, por meio de ações judiciais e execução de títulos extrajudiciais.",
       },
       card3: {
         icon: (
@@ -232,9 +242,9 @@ const contentLp01 = {
             <path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z" />
           </svg>
         ),
-        title: "Processo Simplificado",
+        title: "Benefícios únicos",
         description:
-          "Cuidamos de tudo, com transparência e segurança para você acompanhar.",
+          "Conte com maior rentabilidade, trabalho preventivo na inadimplência, mão de obra especializada, foco nos resultados organização dos processos internos",
       },
       card4: {
         icon: (
@@ -263,9 +273,9 @@ const contentLp01 = {
   cta: {
     bgImg: bgImg,
     sectionHeader: {
-      miniTag: "NÃO PERCA MAIS TEMPO",
-      title: "Recupere sua estabilidade financeira com mais tranquilidade.",
-      subtitle: `Liberte-se da burocracia, foque no que importa e recupere valores pagos indevidamente, evitando gastos desnecessários no futuro.`,
+      miniTag: "VOCÊ SABIA?",
+      title: "Juros abusivos podem levar à busca e apreensão de veículos",
+      subtitle: `Se você está enfrentando dificuldades financeiras, busque nossa ajuda para renegociar suas dívidas antes que tudo isso aconteça!`,
     },
     buttonLabel: "Quero falar com um especialista",
     ctaButtonAriaLabel: "Botão para chamada de ação para contato pelo whatsapp",
