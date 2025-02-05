@@ -84,9 +84,9 @@ const contentLp01 = {
             <path d="m4.9 4.9 14.2 14.2" />
           </svg>
         ),
-        title: "Pessoas com Nome Sujo",
+        title: "Limpeza de Nome e Recuperação de Crédito",
         description:
-          "Mesmo com o nome negativado, é possível recuperar crédito após regularizar as pendências e negociar dívidas.",
+          "Mesmo com restrições no CPF, é possível limpar seu nome, negociar suas dívidas e recuperar seu crédito no mercado.",
       },
       card3: {
         icon: (
